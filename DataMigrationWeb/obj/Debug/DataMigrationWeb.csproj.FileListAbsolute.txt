@@ -1,0 +1,6 @@
+P:\Proyectos DGD\DataCipress\DataMigrationWeb\DataMigrationWeb\bin\DataMigrationWeb.dll.config
+P:\Proyectos DGD\DataCipress\DataMigrationWeb\DataMigrationWeb\bin\DataMigrationWeb.dll
+P:\Proyectos DGD\DataCipress\DataMigrationWeb\DataMigrationWeb\bin\DataMigrationWeb.pdb
+P:\Proyectos DGD\DataCipress\DataMigrationWeb\DataMigrationWeb\obj\Debug\DataMigrationWeb.csprojResolveAssemblyReference.cache
+P:\Proyectos DGD\DataCipress\DataMigrationWeb\DataMigrationWeb\obj\Debug\DataMigrationWeb.dll
+P:\Proyectos DGD\DataCipress\DataMigrationWeb\DataMigrationWeb\obj\Debug\DataMigrationWeb.pdb
